@@ -4,7 +4,7 @@
 
 Customer support teams handle thousands of customer calls daily. However, without proper analytics, it becomes difficult to monitor operational performance, identify service bottlenecks, and optimize staffing schedules.
 
-This project analyzes 5,000 customer support calls across 8 agents to evaluate call center performance using key operational metrics such as call volume, resolution rate, abandonment rate, average handling time (AHT), and customer satisfaction (CSAT).
+This project analyzes 5,000 customer support calls across agents to evaluate call center performance using key operational metrics such as call volume, resolution rate, abandonment rate, average handling time (AHT), and customer satisfaction (CSAT).
 
 The dashboard provides insights into agent productivity, peak call periods, and service efficiency, helping management make data-driven operational decisions.
 
